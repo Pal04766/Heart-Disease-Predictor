@@ -1,4 +1,4 @@
-# Heart-Disease-Predictor
+## Heart Disease Prediction System
 -> Developed a machine learning model using Logistic Regression, Decision Trees, and Random Forest to predict 10-year heart disease risk, achieving the highest accuracy of 0.97 with Random Forest.
 
 -> Processed data from 4,240 individuals, handling missing values, standardizing metrics, and splitting the dataset into training and testing sets to ensure model reliability.
